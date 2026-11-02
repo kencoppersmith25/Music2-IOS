@@ -11,26 +11,26 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DB79B706302F41D500E2D0BE /* Music1Chat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Music1Chat.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB79B706302F41D500E2D0BE /* Music2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Music2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		DB79B740302F472500E2D0BE /* Exceptions for "Music1Chat" folder in "Music1Chat" target */ = {
+		DB79B740302F472500E2D0BE /* Exceptions for "Music2" folder in "Music2" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = DB79B705302F41D500E2D0BE /* Music1Chat */;
+			target = DB79B705302F41D500E2D0BE /* Music2 */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DB79B708302F41D500E2D0BE /* Music1Chat */ = {
+		DB79B708302F41D500E2D0BE /* Music2 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				DB79B740302F472500E2D0BE /* Exceptions for "Music1Chat" folder in "Music1Chat" target */,
+				DB79B740302F472500E2D0BE /* Exceptions for "Music2" folder in "Music2" target */,
 			);
-			path = Music1Chat;
+			path = Music2;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -50,7 +50,7 @@
 		DB79B6FD302F41D500E2D0BE = {
 			isa = PBXGroup;
 			children = (
-				DB79B708302F41D500E2D0BE /* Music1Chat */,
+				DB79B708302F41D500E2D0BE /* Music2 */,
 				DB79B707302F41D500E2D0BE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,7 +58,7 @@
 		DB79B707302F41D500E2D0BE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DB79B706302F41D500E2D0BE /* Music1Chat.app */,
+				DB79B706302F41D500E2D0BE /* Music2.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -66,9 +66,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DB79B705302F41D500E2D0BE /* Music1Chat */ = {
+		DB79B705302F41D500E2D0BE /* Music2 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DB79B711302F41D600E2D0BE /* Build configuration list for PBXNativeTarget "Music1Chat" */;
+			buildConfigurationList = DB79B711302F41D600E2D0BE /* Build configuration list for PBXNativeTarget "Music2" */;
 			buildPhases = (
 				DB79B702302F41D500E2D0BE /* Sources */,
 				DB79B703302F41D500E2D0BE /* Frameworks */,
@@ -79,14 +79,14 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				DB79B708302F41D500E2D0BE /* Music1Chat */,
+				DB79B708302F41D500E2D0BE /* Music2 */,
 			);
-			name = Music1Chat;
+			name = Music2;
 			packageProductDependencies = (
 				DB79B73D302F44DB00E2D0BE /* GoogleMobileAds */,
 			);
 			productName = Music1Chat;
-			productReference = DB79B706302F41D500E2D0BE /* Music1Chat.app */;
+			productReference = DB79B706302F41D500E2D0BE /* Music2.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DB79B705302F41D500E2D0BE /* Music1Chat */,
+				DB79B705302F41D500E2D0BE /* Music2 */,
 			);
 		};
 /* End PBXProject section */
@@ -282,8 +282,8 @@
 				DEVELOPMENT_TEAM = X9Y9WTGG3P;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Music1Chat/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "";
+				INFOPLIST_FILE = Music2/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "No Hands Radio";
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -318,8 +318,8 @@
 				DEVELOPMENT_TEAM = X9Y9WTGG3P;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Music1Chat/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "";
+				INFOPLIST_FILE = Music2/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "No Hands Radio";
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -356,7 +356,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DB79B711302F41D600E2D0BE /* Build configuration list for PBXNativeTarget "Music1Chat" */ = {
+		DB79B711302F41D600E2D0BE /* Build configuration list for PBXNativeTarget "Music2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DB79B712302F41D600E2D0BE /* Debug */,
