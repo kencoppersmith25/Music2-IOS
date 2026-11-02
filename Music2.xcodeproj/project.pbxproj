@@ -104,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DB79B701302F41D500E2D0BE /* Build configuration list for PBXProject "Music1Chat" */;
+			buildConfigurationList = DB79B701302F41D500E2D0BE /* Build configuration list for PBXProject "Music2" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -347,7 +347,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DB79B701302F41D500E2D0BE /* Build configuration list for PBXProject "Music1Chat" */ = {
+		DB79B701302F41D500E2D0BE /* Build configuration list for PBXProject "Music2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DB79B70F302F41D600E2D0BE /* Debug */,
